@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/alise-tools/static/css/main.f855e6bc.css",
-    "main.js": "/alise-tools/static/js/main.c76cd9bb.js",
+    "main.js": "/alise-tools/static/js/main.211789c9.js",
     "static/js/592.76a0956c.chunk.js": "/alise-tools/static/js/592.76a0956c.chunk.js",
     "index.html": "/alise-tools/index.html",
     "main.f855e6bc.css.map": "/alise-tools/static/css/main.f855e6bc.css.map",
-    "main.c76cd9bb.js.map": "/alise-tools/static/js/main.c76cd9bb.js.map",
+    "main.211789c9.js.map": "/alise-tools/static/js/main.211789c9.js.map",
     "592.76a0956c.chunk.js.map": "/alise-tools/static/js/592.76a0956c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c76cd9bb.js"
+    "static/js/main.211789c9.js"
   ]
 }
